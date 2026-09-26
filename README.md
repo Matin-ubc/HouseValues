@@ -12,9 +12,9 @@ There are two ways to run the application:
 
 To run the application using the source files, make sure the following files are present:
 
-FinalModel.pkl — The trained machine learning model.
-CaliforniaGraphics.ipynb — The notebook required to run the application.
-Housing Model.ipynb — The notebook containing the model development process.
+1. FinalModel.pkl — The trained machine learning model.
+2. CaliforniaGraphics.ipynb — The notebook required to run the application.
+3. Housing Model.ipynb — The notebook containing the model development process.
 
 Make sure the two notebooks are located in the Sources folder and that FinalModel.pkl is available in the appropriate directory.
 
