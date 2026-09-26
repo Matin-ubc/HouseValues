@@ -1,18 +1,23 @@
 # HouseValues
-This app predicts the value of your real house in California. This app is built using a Random Forest AI machine-learning model. It has been trained
-based on a wide-range of real data regarding real Californian houses and it is 82.8% accurate in its predictions on the house values.
+This application predicts the market value of a house in California using a Random Forest machine learning model.
 
-Place a shortcut of "HouseValues in California" application on your desktop or open it directly from the original folder.
+The model has been trained on a wide range of real-world data about California homes and achieves 82.8% accuracy in its predictions.
 
-Other spec files and sources (The "build" folder) are not essentially required and you can use a shortcut of .exe file application.
-They are only there in the case you need to view the code and the process of building the app.
+## How to Use the App
+Create a shortcut to the HouseValues in California application on your desktop, or open it directly from its original folder.
+Enter the details of the house you want to evaluate.
+If you are unsure about any of the input values, enter - for those fields.
+You must provide at least 3 input values to receive a reasonable prediction.
+Additional Files
 
-Use (-) wherever you are not sure about any of the elements in the app. You must enter at least 3 elements to receive a reasonable prediction.
+The build folder contains the source code and other files related to the application's development. These files are not required to run the application.
 
-Create a shortcut to use the app.
+You can simply create a shortcut to the .exe file and use it directly.
 
-Note: Make sure that the latest version of Python is installed on your computer.
+## Requirements
 
-Hope you enjoy the app ;)
+Make sure you have the latest version of Python installed on your computer before running the application.
 
-The developer, Matin
+Hope you enjoy using the app!
+
+Developer: Matin
